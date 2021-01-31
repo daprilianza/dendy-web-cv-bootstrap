@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 51px;
+}
+.navbar-style{
+    box-shadow: 0 5px 15px #efefef;
+    text-transform: uppercase;
+    background-color: white;
+}
+.icon-bar{
+    background-color: #ac0533;
+}
+li a{
+    color: #000000;
+}
+li a:hover{
+    color: #ac0533;
+    background-color: darkgrey;
+}
+#text-name{
+    color: #ac0533;
+    margin: 20px 0;
+    font-size: 42px;
+}
+.container-content{
+    padding: 100px 0 0 120px;
+
+}
+#prof-pict{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    width: 300px;
+    height: 300px;
+    margin-left: 150px;
+}
